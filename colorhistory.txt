@@ -1,2 +1,3 @@
 I am blue.
 I am green.
+I am red.
